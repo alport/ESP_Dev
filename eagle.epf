@@ -368,13 +368,13 @@ UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/SparkFun-Eagle-Librari
 UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/SparkFun-Eagle-Libraries/User-Submitted.lbr"
 UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/Adafruit-Eagle-Library/adafruit.lbr"
 UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/esp8266modules.lbr"
-UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/ESP8266-ESP12.lbr"
-UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/Gwaja-logo.lbr"
+UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/My-Eagle-Libraries/Gwaja-logo.lbr"
+UsedLibrary="/Users/chrisfraser/Documents/eagle/Libraries/My-Eagle-Libraries/ESP8266-ESP12.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="360 248 959 647"
-State=2
+Loc="37 65 1439 895"
+State=1
 Number=0
 
 [Desktop]
